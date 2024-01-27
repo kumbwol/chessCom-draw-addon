@@ -1,0 +1,6 @@
+{
+  "name": "chessCom-draw",
+  "version": "0.0.1",
+  "description": "Offer draw on key input",
+  "manifest_version": 2
+}
